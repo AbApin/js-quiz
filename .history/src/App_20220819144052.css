@@ -1,0 +1,15 @@
+/* App */
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Home */
+.home{
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    background: url("./img/quiz-brain.jpg");
+}

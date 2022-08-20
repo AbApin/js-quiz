@@ -1,0 +1,13 @@
+/* App */
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Home */
+.home{
+    max-width: 600px;
+    margin: 0 auto;
+}
